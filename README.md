@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Jenny 👋
 
-<!--
-**JennyTheGem/JennyTheGem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend & UI developer
+🐰 Rabbit enthusiast | Photoshop & video editing | UX & animation lover  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Projects
+- **BeyondUI** – My own modular UI library for building interactive web apps  
+- **Uplift Beyond** – Discord-integrated dashboard & minecraft server management platform  
+- **EzReplay** – students replay viewer with timestamped notes & video tools (WIP: [EzReplay Pro](https://ezreplay.uplift-beyond.de/pro/) )
+
+---
+
+## 🎨 Skills
+- HTML, CSS, JS, KOTLIN  
+- GSAP animations & interactive UI  
+- Photoshop, Lightroom, HitFilm  
+- Responsive & modular design systems  
+
+---
+
+## ⚡ Fun Facts
+- Owner of two giant rabbits  
+- Obsessed with clean code & polished interfaces  
+- Always exploring new ways to make web UIs feel alive  
+
+---
+
+## 📫 Connect with me
+- Discord: `JennyTheGem`  
+- Portfolio: (WIP)
