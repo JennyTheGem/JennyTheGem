@@ -8,7 +8,7 @@ Frontend & UI developer
 ## 💻 Projects
 - **BeyondUI** – My own modular UI library for building interactive web apps  
 - **Uplift Beyond** – Discord-integrated dashboard & minecraft server management platform  
-- **EzReplay** – students replay viewer with timestamped notes & video tools (WIP: [EzReplay Pro](https://ezreplay.uplift-beyond.de/pro/) )
+- **EzReplay** – students replay viewer with timestamped notes & video tools (WIP: [EzReplay Pro](https://ezreplay.uplift-beyond.de) )
 
 ---
 
