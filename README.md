@@ -1,32 +1,36 @@
 # Hi, I'm Jenny 👋
 
-Frontend & UI developer
-🐰 Rabbit enthusiast | Photoshop & video editing | UX & animation lover  
+  Frontend & UI developer focused on clean code and polished, animated interfaces.
+  🐰 Rabbit enthusiast · Photoshop & video editing · UX & motion design
 
----
+  ---
 
-## 💻 Projects
-- **BeyondUI** – My own modular UI library for building interactive web apps  
-- **Uplift Beyond** – Discord-integrated dashboard & minecraft server management platform  
-- **EzReplay** – students replay viewer with timestamped notes & video tools (WIP: [EzReplay Pro](https://ezreplay.uplift-beyond.de) )
+  ## 💻 Projects
 
----
+  - **Velora (WIP)**: self-hosted music streaming app. React + TypeScript frontend, Node/TypeScript backend, with
+  support for Navidrome as an alternative provider.
+  - **Velto (WIP)**: Discord-integrated dashboard & Minecraft server management platform.
+  - **EzReplay**: student replay viewer with timestamped notes & video tools for local video and youtube. [EzReplay
+  Pro](https://ezreplay.uplift-beyond.de)
 
-## 🎨 Skills
-- HTML, CSS, JS, KOTLIN  
-- GSAP animations & interactive UI  
-- Photoshop, Lightroom, HitFilm  
-- Responsive & modular design systems  
+  ---
 
----
+  ## 🎨 Skills
 
-## ⚡ Fun Facts
-- Owner of two giant rabbits  
-- Obsessed with clean code & polished interfaces  
-- Always exploring new ways to make web UIs feel alive  
+  **Languages & frameworks:** TypeScript, JavaScript, React
+  **Animation & UI:** GSAP, responsive & modular design systems
+  **Creative tools:** Photoshop, Lightroom, HitFilm
 
----
+  ---
 
-## 📫 Connect with me
-- Discord: `JennyTheGem`  
-- Portfolio: (WIP)
+  ## ⚡ Fun facts
+
+  - Owner of two rabbits 🐰🐰
+  - Always exploring new ways to make web UIs feel alive
+
+  ---
+
+  ## 📫 Connect with me
+
+  - Discord: `JennyTheGem`
+  - Portfolio: _WIP_
