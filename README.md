@@ -22,7 +22,7 @@ local library with no server at all. Themeable down to the token layer, with a s
 Offline-first video analysis in the browser. Local files or YouTube, timestamped markdown notes,
 export and import of whole sessions. No backend, no account, nothing leaves your machine.
 
-### Velto (planned)
+### Specula (planned)
 
 Self-hosted Minecraft server management with a Discord bot attached: multi-server dashboard,
 live console, whitelist flow, backups. React + Fastify + SQLite, brought up by a single
