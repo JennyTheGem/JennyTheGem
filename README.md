@@ -1,4 +1,4 @@
-# Jenny
+# Heyo, im Jenny
 
 Frontend and UI developer. I build cross-platform apps and the design systems behind them,
 and I care about how they feel: motion, typography, and interfaces that stay polished on every screen.
